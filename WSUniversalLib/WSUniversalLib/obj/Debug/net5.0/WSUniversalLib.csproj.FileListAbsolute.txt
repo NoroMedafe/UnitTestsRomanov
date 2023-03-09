@@ -1,0 +1,12 @@
+C:\Users\danya\source\repos\WSUniversalLib\WSUniversalLib\bin\Debug\net5.0\WSUniversalLib.deps.json
+C:\Users\danya\source\repos\WSUniversalLib\WSUniversalLib\bin\Debug\net5.0\WSUniversalLib.dll
+C:\Users\danya\source\repos\WSUniversalLib\WSUniversalLib\bin\Debug\net5.0\ref\WSUniversalLib.dll
+C:\Users\danya\source\repos\WSUniversalLib\WSUniversalLib\bin\Debug\net5.0\WSUniversalLib.pdb
+C:\Users\danya\source\repos\WSUniversalLib\WSUniversalLib\obj\Debug\net5.0\WSUniversalLib.csproj.AssemblyReference.cache
+C:\Users\danya\source\repos\WSUniversalLib\WSUniversalLib\obj\Debug\net5.0\WSUniversalLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\source\repos\WSUniversalLib\WSUniversalLib\obj\Debug\net5.0\WSUniversalLib.AssemblyInfoInputs.cache
+C:\Users\danya\source\repos\WSUniversalLib\WSUniversalLib\obj\Debug\net5.0\WSUniversalLib.AssemblyInfo.cs
+C:\Users\danya\source\repos\WSUniversalLib\WSUniversalLib\obj\Debug\net5.0\WSUniversalLib.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\WSUniversalLib\WSUniversalLib\obj\Debug\net5.0\WSUniversalLib.dll
+C:\Users\danya\source\repos\WSUniversalLib\WSUniversalLib\obj\Debug\net5.0\ref\WSUniversalLib.dll
+C:\Users\danya\source\repos\WSUniversalLib\WSUniversalLib\obj\Debug\net5.0\WSUniversalLib.pdb
